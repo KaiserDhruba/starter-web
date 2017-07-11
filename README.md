@@ -10,3 +10,4 @@ As stated before, we do some the same stuff.
 Sample website with plenty of files for demos
 
 ## How to contribute
+## Copyright Notice
