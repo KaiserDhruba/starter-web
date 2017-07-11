@@ -10,4 +10,6 @@ As stated before, we do some the same stuff.
 Sample website with plenty of files for demos
 
 ## How to contribute
+Please fork this repository and issue pull request for review
+
 ## Copyright Notice
